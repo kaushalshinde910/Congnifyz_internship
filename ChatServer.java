@@ -65,7 +65,7 @@ class ChatClient {
         } catch (IOException e) {
             e.printStackTrace();
             
-        System.err.println("welcome to kaushal chat server");
+        System.out.println("welcome to kaushal chat server");
         }
     }
 }
