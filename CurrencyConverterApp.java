@@ -81,7 +81,7 @@ public class CurrencyConverterApp extends JFrame implements ActionListener {
         SwingUtilities.invokeLater(() -> {
             CurrencyConverterApp app = new CurrencyConverterApp();
             app.setVisible(true);
-            System.out.println("Hello, kaushal here");    
+            System.out.println("Hello welcome to kaushal's CurrencyConverterApp");    
         });
     }
 }
